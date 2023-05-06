@@ -3,6 +3,12 @@
     <channel>
         <title>Куб.Расписание - Appcast</title>
         <item>
+            <title>Version 0.7.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Tue, 02 May 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/StarProxima/cube/releases/tag/v0.7" sparkle:version="0.7.0" sparkle:os="windows"/>
+        </item>
+        <item>
             <title>Version 0.8.2</title>
             <description>Небольшие исправления и улучшения.</description>
             <pubDate>Tue, 05 May 2023 12:00:00 +0000</pubDate>
