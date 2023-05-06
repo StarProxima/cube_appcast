@@ -13,7 +13,6 @@
             <description>Небольшие исправления и улучшения.</description>
             <pubDate>Tue, 05 May 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.nullexp.cube_system" sparkle:version="0.8.2" sparkle:os="android" />
-            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
 
     </channel>
