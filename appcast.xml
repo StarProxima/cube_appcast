@@ -35,6 +35,11 @@
             <description>Избранные расписания, а также небольшие исправления и улучшения</description>
             <enclosure url="https://apps.apple.com/us/app/куб-расписание/id6448701011" sparkle:version="1.2.0" sparkle:os="ios" />
         </item>
+        <item>
+            <title>Версия 1.2.2</title>
+            <description>Minor updates and improvements.</description>
+            <enclosure url="https://github.com/StarProxima/cube/releases/tag/v0.7" sparkle:version="1.2.2" sparkle:os="windows"/>
+        </item>
 
     </channel>
 </rss>
